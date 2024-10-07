@@ -1,0 +1,26 @@
+﻿Variable Name;Variable Label;Variable Scale
+id;identification number;
+nwave;number of wave they participated;
+longipart;which wave they participated;"1=wave1 only; 2=wave2 only; 3=wave3 only; 12=wave1+2; 13=wave1+3; 23=wave2+3; 123=wave1+2+3"
+age;age at the time of questionnaire;
+sex;gender identity;"1=male; 2=female; 3=non-binary"
+year;curriculum year;
+bmi;Body Mass Index (weight in kilograms divided by height in meters squared);
+physact;physical activity (number of hours per week);
+health;satisfaction with health (“Are you satisfied with your health?”);"1=very unsatisfied; 2=unsatisfied; 3=neither satisfied nor unsatisfied; 4=satisfied; 5=very satisfied"
+psyt;having consulted a psychotherapist during the past year ;"1=yes; 0=no"
+cop_e;Euronet questionnaire:  emotion-focused coping strategies;
+cop_p;Euronet questionnaire: problem-focused coping strategies;
+cop_h;Euronet questionnaire : help-seeking coping strategies;
+fmale;identifying as male (gender identity recoded);"1=male; 2=female or non-binary"
+part;having a partner;"1=yes; 0=no"
+socsup;"Social support: average score of two questions: “If necessary, in your opinion, to what extent can someone provide you with practical help, this means concrete help or useful advice, if 0 means ""not at all"" and 10 ""a great deal""?” for practical support and “To what extent can someone be available in case of need and show understanding, by talking with you for example, if 0 means ""not at all"" and 10 ""a great deal""?” for emotional support.";
+educ_par;parents’ education (number of parents with college or university degree);
+jobhours;hours of paid job per week;
+cesd;"Depression symptoms (Center for Epidemiological Studies-Depression; CES-D)";
+bdi_su;"Suicidal ideation (two questions of the Beck Depression Inventory; BDI)";
+stai;"Anxiety symptoms (State-Trait Anxiety Inventory; STAI)";
+stress;stress (“Globally, how would you evaluate your current stress level on a scale from 1 ‘none’ to 10 ‘extreme’?”);
+mbi_ex;Maslach Burnout Inventory Student-Survey (MBI-SS) : Emotional Exhaustion;
+mbi_cy;Maslach Burnout Inventory Student-Survey (MBI-SS) : Cynicism ;
+mbi_ea;Maslach Burnout Inventory Student-Survey (MBI-SS) : Academic Efficacy (reversed dimension). ;
